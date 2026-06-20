@@ -20,7 +20,6 @@ pnpm-debug.log*
 
 # generated app data
 data/*.json
-public/uploads/*
 
 # macOS
 .DS_Store
